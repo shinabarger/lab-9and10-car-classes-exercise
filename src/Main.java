@@ -1,10 +1,16 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * THIS IS LAB 9 & 10 OF THE GRAND CIRCUS JAVA BOOTCAMP
+ * GOAL OF THE EXERCISE IS TO BETTER UNDERSTAND OOP & CLASS INTERACTION
+ * CREATE MULTIPLE CLASSES THAT RELATE TO AN ARRAY WITH A SHORT EXERCISE FOR USERS TO PICK A CAR TO PURCHASE
+ */
+
 public class Main {
 
     public static void main(String[] args) {
-        // write your code here
+
 
         while (true) {
             Scanner scan = new Scanner(System.in);
